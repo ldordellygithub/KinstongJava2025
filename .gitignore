@@ -1,0 +1,50 @@
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build artifacts
+/target/
+/build/
+/bin/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Maven Wrapper
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Eclipse
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# NetBeans
+nbproject/private/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
