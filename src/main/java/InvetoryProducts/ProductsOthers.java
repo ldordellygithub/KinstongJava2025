@@ -48,7 +48,7 @@ public class ProductsOthers {
     }
 }
 
-/*
+/**
 public static void main(String[] args) {
 
     //  creamos  una matriz  3 * 4  3  objetos  cada  uno  uno  con 4 caracteristicas
@@ -78,3 +78,4 @@ static  void  displayMatriz(ProductsOthers[][] matriz){
         }
     }
 }
+*/
